@@ -7,9 +7,15 @@ XAPI serves as a central hub for API integration and management, catering to the
 
 ## Key Features
 API Integration: Administrators can effortlessly integrate APIs into the XAPI platform, making them readily available for developers to utilize.
+
 API Management: XAPI provides a comprehensive set of management features, including API listing, documentation, versioning, and access control.
+
 Developer Portal: The developer portal allows users to register, obtain API keys, and access comprehensive documentation, making it easy for them to understand and implement APIs.
+
 API Testing and Debugging: XAPI offers built-in tools for developers to test and debug APIs, ensuring smooth integration into their applications.
+
 Analytics and Reporting: The platform provides powerful analytics and reporting capabilities, allowing administrators and developers to gain insights into API usage, performance, and trends.
+
 Authentication and Security: XAPI implements robust authentication mechanisms to ensure secure and authorized access to APIs, safeguarding sensitive data and resources.
+
 Scalability and Performance: The project utilizes scalable technologies and best practices to ensure high performance and availability, even under heavy API traffic.
