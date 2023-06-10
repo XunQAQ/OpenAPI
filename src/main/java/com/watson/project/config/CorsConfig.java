@@ -5,7 +5,7 @@ import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
- * 全局跨域配置
+ * Global Cross Origin
  *
  * @author watson
  */
@@ -14,7 +14,7 @@ public class CorsConfig implements WebMvcConfigurer {
 
     @Override
     public void addCorsMappings(CorsRegistry registry) {
-        // 覆盖所有请求
+        // All request
         registry.addMapping("/**")
                 // 允许发送 Cookie
                 .allowCredentials(true)
