@@ -23,7 +23,7 @@ import java.util.stream.Collectors;
 
 
 /**
- * 权限校验 AOP
+ *  AOP
  *
  * @author watson
  */
@@ -35,7 +35,7 @@ public class AuthInterceptor {
     private UserService userService;
 
     /**
-     * 执行拦截
+     *
      *
      * @param joinPoint
      * @param authCheck

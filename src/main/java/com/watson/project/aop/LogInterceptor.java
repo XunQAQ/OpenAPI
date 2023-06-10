@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.UUID;
 
 /**
- * 请求响应日志 AOP
+ * Log AOP
  *
  * @author watson
  **/
@@ -25,7 +25,7 @@ import java.util.UUID;
 public class LogInterceptor {
 
     /**
-     * 执行拦截
+     *
      */
     @Around("execution(* com.watson.project.controller.*.*(..))")
     public Object doInterceptor(ProceedingJoinPoint point) throws Throwable {

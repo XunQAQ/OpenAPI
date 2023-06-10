@@ -5,7 +5,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * 通用返回类
+ * Gernel return
  *
  * @param <T>
  * @author watson
