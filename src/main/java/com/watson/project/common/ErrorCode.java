@@ -1,7 +1,7 @@
 package com.watson.project.common;
 
 /**
- * 错误码
+ * Error code
  *
  * @author watson
  */
