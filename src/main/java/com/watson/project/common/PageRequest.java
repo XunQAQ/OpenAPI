@@ -4,7 +4,7 @@ import com.watson.project.constant.CommonConstant;
 import lombok.Data;
 
 /**
- * 分页请求
+ * Page request
  *
  * @author watson
  */
