@@ -130,7 +130,7 @@ public class CustomGlobalFilter implements GlobalFilter, Ordered {
      * 处理响应
      *
      * @param exchange
-     * @param chain
+     * @param
      * @return
      */
     public Mono<Void> handleResponse(ServerWebExchange exchange, GatewayFilterChain chain, long interfaceInfoId, long userId) {
